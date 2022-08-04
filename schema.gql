@@ -1,0 +1,18 @@
+type User {
+  email: String! @unique
+  name: String!
+  department: String
+  role: String!
+  ideas: [Idea!] @relation(name: "idea_author")
+}
+
+type Idea {
+  author: [User!] @relation(name: "idea_author")
+  title: String
+  likes: Int
+}
+
+type Query {
+  allUsers: [User!]
+  allIdeas: [Idea]
+}
