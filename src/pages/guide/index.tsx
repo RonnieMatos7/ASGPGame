@@ -121,7 +121,7 @@ export default function Guide() {
                   <TabPanels>
                     <TabPanel>
                       <Text mb={"6"}>
-                        Os jogadores serão os gerentes de projetos do ano.
+                        Os jogadores serão os colaboradores da ASGP.
                       </Text>
                     </TabPanel>
                     <TabPanel>
