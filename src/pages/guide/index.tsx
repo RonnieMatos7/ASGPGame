@@ -91,19 +91,19 @@ export default function Guide() {
                 O que é gamificação ?
                 </Heading>
                 <Text mb={"8"}>
-                  Consiste em usar técnicas, estratégias e o design de games em outros contextos que não sejam necessariamente associadas aos jogos em si.  É trazer o jogo para a realidade e com isso impactar pontos como engajamento, produtividade, foco, determinação e outros, tornando mais simples atingir metas e objetivos em qualquer contexto.
+                  Consiste em usar técnicas, estratégias e o design de games em outros contextos a fim de solucionar problemas e melhorar o nível de aprendizado motivando ações orientadas a três fatores da psicologia humana e comportamental: motivação, habilidade e estímulo. 
                 </Text>
                 <Heading mb={"4"} size="md" fontWeight="normal" alignContent={"left"} textAlign={"left"} alignSelf={'left'}>
-                  O que é o PM ESE Game ?
+                  O que é o ASGP Game ?
                 </Heading>
                 <Text mb={"8"}>
-                  Trata-se de um game para incentivar e reconhecer a alta performance dos gerentes de projetos.
+                  Trata-se de um jogo para incentivar e reconhecer a alta performance do time ASGP.
                 </Text>
                 <Heading mb={"4"} size="md" fontWeight="normal" alignContent={"left"} textAlign={"left"} alignSelf={'left'}>
                   Qual é o ciclo do game ?
                 </Heading>
                 <Text mb={"8"}>
-                  O ciclo 2022 da gamificação inicará em 01/05/2022 e finalizará em 31/11/2022.
+                  O ciclo 2023 da gamificação inicará em 02/01/2023 e contará com reconhecimentos trimestrais.
                 </Text>
                 <Heading mb={"4"} size="md" fontWeight="normal" alignContent={"left"} textAlign={"left"} alignSelf={'left'}>
                   Quais são os elementos do game ?
