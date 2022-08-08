@@ -54,7 +54,7 @@ export default function Dashboard() {
             borderRadius={8}
             pb="4"
           >
-            <Text fontSize="lg" mb="4">Top Departamentos</Text>
+            <Text fontSize="lg" mb="4">Top Processos</Text>
             
             {/* <Chart options={options} series={series} type="area" height={160} /> */}
 
@@ -166,7 +166,7 @@ export default function Dashboard() {
             borderRadius={8}
             pb="4"
           >
-            <Text fontSize="lg" mb="4">Top Gerentes de Projetos</Text>
+            <Text fontSize="lg" mb="4">Top ASGP</Text>
             {/* <Chart options={options} series={series} type="area" height={160} /> */}
             <Table colorScheme="whiteAlpha">
                 <Thead>
