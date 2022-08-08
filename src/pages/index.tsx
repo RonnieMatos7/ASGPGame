@@ -82,7 +82,7 @@ export default function SignIn() {
         letterSpacing="tight"
         w="64"
       >
-        PROJECTgame
+        ASGPgame
         <Text as="span" ml="1" color="pink.500">.</Text>
         
       </Text>
